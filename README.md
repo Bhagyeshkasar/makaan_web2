@@ -16,5 +16,6 @@ Data Collected:
 seller data
 Number of BHK
 Locality
-Construction Status..... and all other data required for scrapping.
+Construction Status..... and all other data required for scrapping
+
 Data-source link:- 'https://www.makaan.com/mumbai-residential-property/buy-property-in-mumbai-city'
