@@ -10,6 +10,7 @@ BeautifulSoup
 Time
 Pandas
 Requests
+
 Data Collected:
 
 Seller data
